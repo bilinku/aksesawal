@@ -1,0 +1,5 @@
+export * from "./AddProduct"
+export * from "./HomePage"
+export * from "./Profile"
+export * from "./UpdateLink"
+export * from "./EditProduct"
